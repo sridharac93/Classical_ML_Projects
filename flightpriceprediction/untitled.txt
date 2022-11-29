@@ -1,0 +1,34 @@
+Chatbot
+1.Entity'
+2.Intent
+3.Dailogue/Response
+
+
+Intent:
+ex:
+1.How is the weather?
+2.what is the temperature?
+3.give me a weather foresscast?
+
+here the intention is the query related to weather
+and entity is the weather which is a key word  and the dialodue is the appropriate response for those keywords present in the dictionary
+and we dont have a database connected to these kind of chatbots so we are going to use the predefined responses for these chatbots
+
+
+IBM watson assistant
+ Create a chatbot 
+ from exercise guide book 8 unit
+ 
+ 
+API Credentials for watson assistant:
+API KEY: hnshdx-p7y84QI4VPntiOkWlRGsuZ9q0yloC1n0ApA11
+ 
+ URL  :  https://gateway-lon.watsonplatform.net/assistant/api
+ 
+ 
+ 
+ API Credentials for NLP
+ 
+ API KEY : Y6mSwNhqPe7PpuvnQw8vN8ZiqVK3Li8BE9PDFSXRLEp5
+ 
+ URL :  https://gateway-lon.watsonplatform.net/natural-language-understanding/api
